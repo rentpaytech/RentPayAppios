@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>676857459838-9arh9rbgau0kstgrgmbhv9uma0fgcjgi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.676857459838-9arh9rbgau0kstgrgmbhv9uma0fgcjgi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>676857459838-me87k1ii8u31thh6q9c3chqlufg43um9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB9hK6TwWgJf9uQzpaHPIRX4sSRWbHEluk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>676857459838</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rentpay.RentPayApp</string>
+	<key>PROJECT_ID</key>
+	<string>rent-pay-b5608</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rent-pay-b5608.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:676857459838:ios:5aae0afb86bce2ee92142f</string>
+</dict>
+</plist>
